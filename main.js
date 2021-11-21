@@ -25,5 +25,5 @@ function draw(){
 }
 
 function takeSnapshot(){
-    save(coolPic.png);
+    save("coolPic.png");
 }
